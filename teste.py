@@ -1,1 +1,2 @@
-print("Alô Mundo");
+print("Alô Mundo")
+print("Linha 2")
